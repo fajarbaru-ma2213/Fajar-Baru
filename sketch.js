@@ -318,9 +318,9 @@ function draw() {
       
       textSize(12)
       textFont(RobotoMonoSemiBold)
-      text("0-15 Tahun               = 267",730,2550)
-      text("15-65 Tahun              = 1373",730,2570)
-      text("65 + Tahun               = 1689",730,2590)
+      text("0-15 Tahun               = 138",730,2550)
+      text("15-65 Tahun              = 5629",730,2570)
+      text("65 + Tahun               = 584",730,2590)
       
       
       // warna
